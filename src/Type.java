@@ -21,7 +21,7 @@ public class Type {
         System.out.println("です");
         int a = 5;
         int b = 3;
-        int m = Math.max(a,b);
-        System.out.println("比較実験：" + a + "と" + b +"とで大きい方は…" + m);
+        int m = Math.max(a, b);
+        System.out.println("比較実験：" + a + "と" + b + "とで大きい方は…" + m);
     }
 }
