@@ -5,8 +5,9 @@ public class Study_3_8_6 {
         for (int i = 0; i < 5; i++) {
             System.out.println("0~9の数字を入力してください");
             int num = new java.util.Scanner(System.in).nextInt();
-            if (i == num) {
+            if (ans == num) {
                 System.out.println("アタリ！");
+                break;
             } else {
                 System.out.println("違います。");
             }
