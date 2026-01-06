@@ -1,4 +1,4 @@
-public class Study_4_2_1_4 {
+public class Study_4_2_1 {
     public static void main(String[] args) {
         //配列変数の作成（宣言）
         int[] score;  //要素の型[] 配列変数名
