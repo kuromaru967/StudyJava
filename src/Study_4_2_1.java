@@ -8,7 +8,7 @@ public class Study_4_2_1 {
         //int[] score = new int[5];
 
         //配列の要素数の取得
-        int kobakos = score.length;  //配列変数名.iength
+        int kobakos = score.length;  //配列変数名.length
         System.out.println("要素の数: " + kobakos);
     }
 }
