@@ -1,4 +1,4 @@
-public class Study4_5_1 {
+public class Study_4_5_1 {
     public static void main(String[] args) {
         int[] a = {1, 2, 3};
         int[] b;

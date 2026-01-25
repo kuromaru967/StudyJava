@@ -1,4 +1,4 @@
-public class Study4_4_2 {
+public class Study_4_4_2 {
     public static void main(String[] args) {
         int[] score = {20, 30, 40, 50, 80};
         for (int value : score) {
