@@ -6,7 +6,7 @@ public class Study_4_4_1 {
             //for(int i=0;i<配列変数名.length;i++)
             //for文の終了条件に配列変数名.lengthを用いる。
             System.out.println(score[i]);
-            //↑scoreが+1ずつ増えて表示される
+            //↑scoreの添え字が1ずつ増えて要素が表示される
         }
     }
 }
